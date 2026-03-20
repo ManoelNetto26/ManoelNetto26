@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, seja bem-vindo(a) ao meu GitHub! 👋
 
-<!--
-**ManoelNetto26/ManoelNetto26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📝 Sobre mim
 
-Here are some ideas to get you started:
+Sou **Manoel da Nobrega**, estudante de Ciência da Computação na UFCG (Campus Campina Grande). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou movido pela resolução de problemas e tenho um gosto especial por matemática. Atualmente tenho um forte interesse em expandir meus conhecimentos nas áreas de **Inteligência Artificial**, **LLMs** (Large Language Models) e **Ciência de Dados**.
+
+## 🚀 Skills & Tecnologias
+
+### 💻 Linguagens
+* **Python** * **Java**
+* **Bash Scripting**
+
+###  Interesses Acadêmicos 
+* **Ciência de Dados & IA:** Estudos focados em LLMs e análise de dados.
+* **Engenharia de Software:** Estruturas de Dados Avançadas, Otimização de Bancos de Dados.
