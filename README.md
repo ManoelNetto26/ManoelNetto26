@@ -2,7 +2,7 @@
 
 ## 📝 Sobre mim
 
-Sou **Manoel da Nobrega**, estudante de Ciência da Computação na UFCG (Campus Campina Grande). 
+Sou **Manoel da Nobrega**, estudante de Ciência da Computação na UFCG. 
 
 Sou movido pela resolução de problemas e tenho um gosto especial por matemática. Atualmente tenho um forte interesse em expandir meus conhecimentos nas áreas de **Inteligência Artificial**, **LLMs** (Large Language Models) e **Ciência de Dados**.
 
