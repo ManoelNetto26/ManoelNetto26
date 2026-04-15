@@ -9,8 +9,8 @@ Tenho foco na resolução de problemas e tenho um gosto especial por matemática
 ## 🚀 Skills & Tecnologias
 
 ### 💻 Linguagens
-* **Python** * **Java**
-* **Bash Scripting**
+* **Python**
+* * **Java**
 
 ###  Interesses Acadêmicos 
 * **Ciência de Dados & IA:** Estudos focados em LLMs e análise de dados.
